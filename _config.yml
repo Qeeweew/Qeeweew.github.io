@@ -104,6 +104,6 @@ theme: landscape
 
 deploy:
   type: git
-  repo: https://github.com/Qweewee/Qweewee.github.io
+  repo: https://github.com/Qeeweew/Qeeweew.github.io
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
